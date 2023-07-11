@@ -31,7 +31,7 @@ import (
 	"go.uber.org/goleak"
 	"k8s.io/apimachinery/pkg/watch"
 
-	"github.com/networkservicemesh/cmd-map-ip-k8s/internal/mapipwriter"
+	"github.com/NikitaSkrynnik/cmd-map-ip-k8s/internal/mapipwriter"
 )
 
 func Test_MapWriter(t *testing.T) {

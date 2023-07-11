@@ -1,6 +1,6 @@
 // Copyright (c) 2021 Doc.ai and/or its affiliates.
 //
-// Copyright (c) 2023 Cisco goimports -w -local github.com/networkservicemesh and/or its affiliates.
+// Copyright (c) 2023 Cisco goimports -w -local github.com/NikitaSkrynnik and/or its affiliates.
 //
 // SPDX-License-Identifier: Apache-2.0
 //
@@ -29,7 +29,7 @@ import (
 	"gopkg.in/yaml.v2"
 	"k8s.io/apimachinery/pkg/watch"
 
-	"github.com/networkservicemesh/sdk/pkg/tools/log"
+	"github.com/NikitaSkrynnik/sdk/pkg/tools/log"
 )
 
 // Translation represents translation of ip addrses

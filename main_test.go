@@ -27,7 +27,7 @@ import (
 	"go.uber.org/goleak"
 	"gopkg.in/yaml.v2"
 
-	mainpkg "github.com/networkservicemesh/cmd-map-ip-k8s"
+	mainpkg "github.com/NikitaSkrynnik/cmd-map-ip-k8s"
 
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

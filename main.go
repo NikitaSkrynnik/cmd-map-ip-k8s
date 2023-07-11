@@ -38,10 +38,10 @@ import (
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/rest"
 
-	"github.com/networkservicemesh/cmd-map-ip-k8s/internal/mapipwriter"
-	"github.com/networkservicemesh/sdk/pkg/tools/log"
-	"github.com/networkservicemesh/sdk/pkg/tools/log/logruslogger"
-	"github.com/networkservicemesh/sdk/pkg/tools/opentelemetry"
+	"github.com/NikitaSkrynnik/cmd-map-ip-k8s/internal/mapipwriter"
+	"github.com/NikitaSkrynnik/sdk/pkg/tools/log"
+	"github.com/NikitaSkrynnik/sdk/pkg/tools/log/logruslogger"
+	"github.com/NikitaSkrynnik/sdk/pkg/tools/opentelemetry"
 )
 
 // Config represents the configuration for cmd-map-ip-k8s application
