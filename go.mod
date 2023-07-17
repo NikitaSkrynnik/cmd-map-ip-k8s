@@ -3,7 +3,7 @@ module github.com/NikitaSkrynnik/cmd-map-ip-k8s
 go 1.20
 
 require (
-	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230717053447-addad26ecd77
+	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230717061214-871af1d0bcca
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
 	github.com/edwarnicke/serialize v1.0.7
 	github.com/kelseyhightower/envconfig v1.4.0
